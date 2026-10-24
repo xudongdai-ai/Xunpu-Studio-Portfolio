@@ -1,0 +1,35 @@
+{
+  "scope": "selective public portfolio release",
+  "files": [
+    {
+      "path": "LICENSE",
+      "bytes": 430,
+      "sha256": "51fea7ad4d9cd9ea0007bbe4ba01a21fd612f762c725719daf577e19282e1867"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2250,
+      "sha256": "249a933a42c670f525eab67fa52ae5bef47e7ad877e1c1c2f5ac29b0a529cf40"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 70,
+      "sha256": "65ab7f6cf062218348b919179d257f9c2c834ac0a3b85415bb4c70e3d96f24c8"
+    },
+    {
+      "path": "DISCLOSURE.md",
+      "bytes": 579,
+      "sha256": "9c80c3453be38c43e2d4cdf113029376e353dd227134bdc0f93ade7b512d2376"
+    },
+    {
+      "path": "docs/EVIDENCE.md",
+      "bytes": 689,
+      "sha256": "8155c54e16ba448fe22229e4ed0a41a225b68996cb3da74d2826da51c04acf2d"
+    },
+    {
+      "path": "examples/review_contract.py",
+      "bytes": 1037,
+      "sha256": "ee1cf6850f259c2062cfaefefaa7720b55b62c5887da8a0b077611c55c55603c"
+    }
+  ]
+}
